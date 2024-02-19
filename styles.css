@@ -1,0 +1,247 @@
+body {
+    width: 100%;
+    max-width: 510px;
+    min-width: 100px; 
+    background-color: #FFF8E1;
+    height: 100vh;
+}
+
+.nav-bar {
+    background-color: #523728;
+    width: 17%;
+    position: absolute;
+    top: 50px;
+    right: 650px;
+    border-radius: 6px; 
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 4px;
+}
+
+.signup {
+    position: absolute;
+    top: 50px;
+    right: 200px;
+    color: #523728;
+    border-radius: 8px;
+}
+
+.logo {
+    position: relative;
+    top: -15px;  
+}
+
+.main {
+    width: 100%;
+    position: relative;
+    right: -830px;
+    top: -130px;
+}
+
+.text {
+    position: relative;
+    top: -450px;
+    right: -30px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: xx-large;
+}
+
+.get {
+    border-radius: 10px;
+    background-color: #523728;
+    color: white;
+}
+
+.demo {
+    border-radius: 10px;
+}
+
+.aboutimg {
+    width: 80%;
+    position: relative;
+    top: -300px;
+    right: -30px;
+}
+
+.abouttext {
+    position: relative;
+    top: -600px;
+    right: -800px;
+}
+
+.about {
+    max-width: 600px;
+    min-width: 300px;
+}
+
+.read {
+    background-color: #523728;
+    border-radius: 8px;
+    color: white;
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    right: -200px;
+    gap: 50px;
+}
+
+.menu1 {
+    width: 50%;
+    height: 60%;
+    background-color: #523728;
+    position: relative;
+    top: -400px;
+    right: -22px;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-bottom: 28px;
+    padding-top: 8px;
+    color: white;
+}
+
+.price1 {
+    position: relative;
+     bottom: -18px;
+}
+
+.imgmenu1 {
+    width: 20%;
+    position: relative;
+    right: -50px;
+}
+
+.h1menu {
+    position: relative;
+    right: -600px;
+    top: -480px;
+}
+
+.menu2 {
+    width: 50%;
+    height: 60%;
+    background-color: #523728;
+    position: relative;
+    top: -400px;
+    right: -200px;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    color: white;
+}
+
+.imgmenu2 {
+    width: 20%;
+    position: relative;
+    right: -50px;
+}
+
+.menu3 {
+    width: 50%;
+    height: 60%;
+    background-color: #523728;
+    position: relative;
+    top: -400px;
+    right: -320px;
+    border-radius: 10px;
+    padding-left: 8px;
+    padding-bottom: 35px;
+    color: white;
+}
+
+.price3 {
+    position: relative;
+    bottom: -25px;
+}
+
+.imgmenu3 {
+    width: 20%;
+    position: relative;
+    right: -50px;
+}
+
+#Blog {
+    position: relative;
+    top: -350px;
+    right: -550px;
+}
+
+.blog {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.ourblog {
+    position: relative;
+    right: -45px;
+    top: -15px
+}
+
+.recentpost {
+    position: relative;
+    right: -45px;
+    top: -15px;
+}
+
+.blog1 {
+    width: 90%;
+    height: 60%;
+    background-color: #523728;
+    padding-left: 20px;
+    border-radius: 10px;
+    color: white;
+    position: relative;
+    left: -350px;
+}
+
+.imgblog1 {
+    width: 90%;
+    position: relative;
+    right: -4px;
+    margin-top: 12px;
+}
+
+.blog2 {
+    width: 90%;
+    height: 60%;
+    background-color: #523728;
+    padding-left: 20px; 
+    border-radius: 10px;
+    padding-bottom: 12px;
+    color: white;
+    position: relative;
+    left: -150px;
+}
+
+.imgblog2 {
+    width: 90%;
+    margin-top: 12px;
+}
+
+.blog3 {
+    width: 90%;
+    height: 60%;
+    background-color: #523728;
+    padding-left: 20px;
+    border-radius: 10px;
+    color: white; 
+}
+
+.imgblog3 {
+    width: 90%;
+    margin-top: 12px;
+}
+
+a:hover {
+    background-color: #1b1b32;
+    color: #dfdfe2;
+}
